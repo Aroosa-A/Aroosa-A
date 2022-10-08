@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="/image/mongodb.png" alt="MongoDB" width="25" height="25"/>
 </section>
 </br></br>
-![](https://komarev.com/ghpvc/?username=Aroosa-A&color=orange&style=flat)
+
 
 
