@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="/image/mongodb.png" alt="MongoDB" width="25" height="25"/>
 </section>
 </br></br>
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
