@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Technologies</h2>
 
 <p align="center" >
-<section>JavaScript <img src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="25" height="25"/> </p><p>Java <img src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="Java" width="25" height="25"/> </p>
-</section>
+<section  align="center">JavaScript <img src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="25" height="25"/> </section><section align="center">Java <img src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="Java" width="25" height="25"/> </section>
+</p>
