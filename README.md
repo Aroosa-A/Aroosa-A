@@ -1,7 +1,7 @@
 [![MasterHead](/image/banner.png)](https://github.com/Aroosa-A)
-- 👋 Hi, I’m @Aroosa-A, Graduate software engineer
+- 👋 Hi, I’m Graduate software engineer
 - 👀 I’m interested in programming roles
-- 🌱 I’m currently learning new peogramming languages
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me: aroosaahmed94@gmail.com
 
