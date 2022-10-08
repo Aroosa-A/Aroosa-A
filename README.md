@@ -1,9 +1,5 @@
 [![MasterHead](/image/banner.png)](https://github.com/Aroosa-A)
-- 👋 Hi, I’m Graduate software engineer
-- 👀 I’m interested in programming roles
-- 🌱 I’m currently learning Full Stack development
-- 💞️ I’m looking to collaborate on team projects
-- 📫 How to reach me: aroosaahmed94@gmail.com
+- 👋 Hi, I’m Graduate software engineer - 👀 I’m interested in programming roles - 🌱 I’m currently learning Full Stack development - 💞️ I’m looking to collaborate on team projects - 📫 How to reach me: aroosaahmed94@gmail.com
 
 <!---
 Aroosa-A/Aroosa-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
