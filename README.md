@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </br></br>
 <h2 align="center">Technologies</h2>
 
-<p align="center" >
+<section align="center" >
   <img align="left" src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="25" height="25"/> 
   <img align="left" src="/image/java.png" alt="Java" width="25" height="25"/>
   <img align="left" src="/image/html.png" alt="HTML" width="25" height="25"/>
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" src="/image/node.png" alt="Node.js" width="25" height="25"/>
   <img align="left" src="/image/git.png" alt="GitHub" width="25" height="25"/>
   <img align="left" src="/image/mocha-chai.png" alt="Mocha & Chai" width="25" height="25"/>
-</p>
+</section>
 </br></br>
 
 
