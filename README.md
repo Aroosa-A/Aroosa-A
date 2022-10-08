@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Technologies</h2>
 
 <section align="center" >
-  <img align="center" src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="25" height="25"/> 
+  <img align="center" src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="25" height="25"/> </tb>
   <img align="center" src="/image/java.png" alt="Java" width="25" height="25"/>
   <img align="center" src="/image/html.png" alt="HTML" width="25" height="25"/>
   <img align="center" src="/image/css.png" alt="CSS" width="25" height="25"/>
