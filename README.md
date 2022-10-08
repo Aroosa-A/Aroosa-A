@@ -1,4 +1,4 @@
-[![MasterHead](/image/banner (1).png)](https://github.com/Aroosa-A)
+[![MasterHead](/image/banner.png)](https://github.com/Aroosa-A)
 - 👋 Hi, I’m @Aroosa-A, Graduate software engineer
 - 👀 I’m interested in programming roles
 - 🌱 I’m currently learning new peogramming languages
