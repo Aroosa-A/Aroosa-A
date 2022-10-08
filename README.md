@@ -9,4 +9,4 @@ Aroosa-A/Aroosa-A is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![Aroosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aroosa-A&hide=stars)
-[![MasterHead](C:\Users\aroos\Downloads\png.software engineering edit.png)](https://github.com/Aroosa-A)
+[![MasterHead](C:\Users\aroos\Documents\Digital-Futures-work\DF-challenges\Aroosa-A\image\banner.png)](https://github.com/Aroosa-A)
