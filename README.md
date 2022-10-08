@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 ![Aroosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aroosa-A&show_icons=true&theme=radical&hide=stars) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroosa-A&layout=compact&theme=radical)](https://github.com/Aroosa-A/github-readme-stats)
+</br></br>
+<h2 align="center">Technologies</h2>
 
-<h3 align="center">Technologies</h3>
 <p align="center" >
-<p>JavaScript <img src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="25" height="25"/> </p>
-<p>Java <img src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="Java" width="25" height="25"/> </p>
+<p>JavaScript <img src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="25" height="25"/> </p><p>Java <img src="/image/67-678384_transparent-javascript-icon-png-png-download.png" alt="Java" width="25" height="25"/> </p>
 </p>
