@@ -9,12 +9,12 @@ You can click the Preview link to take a look at your changes.
 --->
 </br></br>
 <h2 align="center">My GitHub Stats</h2>
-
+<p align="center">
 ![Aroosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aroosa-A&show_icons=true&theme=radical&hide=stars)
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroosa-A&layout=compact&theme=radical)](https://github.com/Aroosa-A/github-readme-stats)
-
+</p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose](https://github-readme-stats.vercel.app/api?username=Aroosa-A&show_icons=true&theme=radical&hide=stars"></a>
     ·
