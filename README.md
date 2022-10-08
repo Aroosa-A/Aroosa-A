@@ -27,4 +27,5 @@ You can click the Preview link to take a look at your changes.
   <img align="left" src="/image/git.png" alt="GitHub" width="25" height="25"/>
   <img align="left" src="/image/mocha-chai.png" alt="Mocha & Chai" width="25" height="25"/>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aroosa-A&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aroosa-A&theme=radical)](https://github.com/Aroosa-A/streak-stats)
