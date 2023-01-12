@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">My GitHub Stats</h2>
 <section align="center">
 
-![Aroosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aroosa-A&show_icons=true&theme=radical&hide=stars) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroosa-A&layout=compact&theme=radical)](https://github.com/Aroosa-A/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aroosa-A&theme=radical)](https://github.com/Aroosa-A/streak-stats)
   </section>
 </br></br>
